@@ -62,7 +62,7 @@
     </p>
   <td>
 	<video width="429" height="200" controls>
-	<source src="https://web.microsoftstream.com/video/8f00f8dc-48bb-44c8-8258-501a1172a211" type="video/mp4">
+	<source src="Data/video.mp4" type="video/mp4">
 	</video>
   <td>
   </td>
