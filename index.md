@@ -62,7 +62,6 @@
     </p>
   <td>
 	<video width="429" height="200" controls>
-	<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/8f00f8dc-48bb-44c8-8258-501a1172a211?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 	<source src="Data/video.mp4" type="video/mp4">
 	</video>
   <td>
